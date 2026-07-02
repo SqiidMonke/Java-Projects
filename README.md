@@ -1,5 +1,5 @@
 # Java Projects Collection
-My Java projects through out my high school years.
+I’m a self‑taught Java programmer, UIL CS competitor, and high‑school valedictorian with a passion for computer science. These are my Java projects through out my high school years.
 
 ## Project Categories
 
