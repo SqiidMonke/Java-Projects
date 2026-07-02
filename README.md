@@ -9,8 +9,8 @@ Programs written while preparing for or competing in UIL Computer Science compet
 ### Personal Projects
 Independent programs created out of curiosity or experimentation. These range from small utilities to exploratory code meant to test ideas or learn new concepts.
 
-### School Assignments
-Java exercises completed for classwork or structured practice, focusing on basic fundamentals such as loops, conditionals, arrays, and object‑oriented programming.
+### School Related
+Java exercises completed for classwork or structured practice, and other school related codes, focusing on basic fundamentals such as loops, conditionals, arrays, and object‑oriented programming.
 
 ## Purpose
 
